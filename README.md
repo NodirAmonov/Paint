@@ -1,3 +1,3 @@
 # Paint
 
-You Can This project [View Live](https://paint-clone-page.netlify.app)
+You can this project [View Live](https://paint-clone-page.netlify.app)
